@@ -1,0 +1,38 @@
+export const restaurants = [
+  {
+    id: 1,
+    name: "Spice Garden",
+    category: "Indian",
+    rating: 4.9,
+    delivery: "25 min",
+    price: "₹250 for two",
+    image: "/restaurants/indian.jpg",
+  },
+  {
+    id: 2,
+    name: "Pizza Hub",
+    category: "Pizza",
+    rating: 4.8,
+    delivery: "30 min",
+    price: "₹350 for two",
+    image: "/restaurants/pizza.jpg",
+  },
+  {
+    id: 3,
+    name: "Green Bowl",
+    category: "Healthy",
+    rating: 4.7,
+    delivery: "20 min",
+    price: "₹220 for two",
+    image: "/restaurants/salad.jpg",
+  },
+  {
+    id: 4,
+    name: "Sweet Bliss",
+    category: "Bakery",
+    rating: 4.9,
+    delivery: "18 min",
+    price: "₹180 for two",
+    image: "/restaurants/bakery.jpg",
+  },
+];
